@@ -1,0 +1,7 @@
+pip
+Flask
+scikit-learn
+Pillow==8.4.0
+werkzeug==2.2.2
+pandas
+numpy
